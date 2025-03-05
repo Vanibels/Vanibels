@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Vanibels/Vanibels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vanibels
+Yo je suis Vanibels d'epsilon:
 
-Here are some ideas to get you started:
+    - **Administrateur système**
+    - **Developpeur junior** ***back/front**
+    - **Designer junior**
+    - **Developpeur minecraft plugin spigot en java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mes language
+    Je comprends bien :
+        Java
+        C pour le développement de carte électronique
+        Python
+    J'apprend a comprendre :
+        Le C pour le développement logiciel
+        Sql, MySql et mariadb
+        L'assembly
+    Je voudrais comprendre :
+        Les protocole réseaux
+
+
+
