@@ -15,7 +15,7 @@ Yo je suis Vanibels d'epsilon
         - Le C pour le développement logiciel
         - Sql, MySql et mariadb
         - L'assembly
-    - Je voudrais comprendre 
+ -  Je voudrais comprendre 
         - Les protocole réseaux
 
 
