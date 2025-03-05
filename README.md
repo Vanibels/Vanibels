@@ -7,15 +7,20 @@ Yo je suis Vanibels d'epsilon
     - **Developpeur minecraft plugin spigot en java**
 
 ### Mes language
-- Je comprends bien 
+- Je comprends bien
+  
         - Java
         - C pour le développement de carte électronique
         - Python
- - J'apprend a comprendre 
+  
+ - J'apprend a comprendre
+   
         - Le C pour le développement logiciel
         - Sql, MySql et mariadb
         - L'assembly
- -  Je voudrais comprendre 
+   
+ -  Je voudrais comprendre
+   
         - Les protocole réseaux
 
 
