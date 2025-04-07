@@ -9,7 +9,7 @@ Yo je suis Vanibels d'epsilon
 ### Mes language
 - Je comprends bien
   - Java
-  - C pour le développement de carte électronique
+  - C++ pour le développement de carte électronique
   - Python
  - J'apprend a comprendre
    - Le C pour le développement logiciel
