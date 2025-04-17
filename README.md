@@ -2,7 +2,7 @@
 # Vanibels
 Yo je suis Vanibels d'epsilon
     - **Administrateur système**
-    - **Developpeur junior** ***back/front**
+    - **Developpeur junior** **front-end/back???**
     - **Designer junior**
     - **Developpeur minecraft plugin spigot en java**
 
