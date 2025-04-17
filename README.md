@@ -12,7 +12,7 @@ Yo je suis Vanibels d'epsilon
   - C++ pour le développement de carte électronique
   - Python
  - J'apprend a comprendre
-   - Le C pour le développement logiciel
+   - Le C++ pour le développement logiciel
    - Sql, MySql et mariadb
    - L'assembly
  -  Je voudrais comprendre
