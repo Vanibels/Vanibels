@@ -1,6 +1,6 @@
 # Yo, moi c'est **Vanibels Epsilon**
 
-<img align="right" src="https://i.imgur.com/Si1nKsw.gif" alt="Coding" width="200"/>
+<img align="right" src="https://cdn.discordapp.com/attachments/1357108767229214866/1363323103601496144/demonvani.png?ex=680e2ed5&is=680cdd55&hm=f0105be0b09d305a2354a38cee8df36e35ed9910b8a8585614f185d93568e982&" alt="Coding" width="200"/>
 
 **Administrateur Système**  
 **Développeur Junior Front-end / Back-end**  
