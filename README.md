@@ -1,8 +1,5 @@
 # Yo, moi c'est **Vanibels Epsilon**
 
-<img align="right" src="https://media.discordapp.net/attachments/1357108767229214866/1365713309629677659/vanibels.png?ex=680e4f22&is=680cfda2&hm=f4594fb083fa3077b8dfd0b8709d02a7dbd70a01309c827c008534b3eb2a85b2&=&format=webp&quality=lossless&width=235&height=253" alt="Vanibels" width="200"/>
-
-
 **Administrateur Système**  
 **Développeur Junior Front-end / Back-end**  
 **Designer Junior**  
